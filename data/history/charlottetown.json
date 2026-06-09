@@ -1,0 +1,3138 @@
+{
+  "2026-01-29": {
+    "logs": [
+      {
+        "time": "8:00",
+        "temp": -16.08,
+        "humidity": 86,
+        "windSpeed": 4.63,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:01",
+        "temp": -16.08,
+        "humidity": 86,
+        "windSpeed": 4.63,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:01",
+        "temp": -16.08,
+        "humidity": 86,
+        "windSpeed": 4.63,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:02",
+        "temp": -16.08,
+        "humidity": 86,
+        "windSpeed": 4.63,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:03",
+        "temp": -16.08,
+        "humidity": 86,
+        "windSpeed": 4.63,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:04",
+        "temp": -16.08,
+        "humidity": 86,
+        "windSpeed": 4.63,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:05",
+        "temp": -16.08,
+        "humidity": 86,
+        "windSpeed": 4.63,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:06",
+        "temp": -16.08,
+        "humidity": 86,
+        "windSpeed": 4.63,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:06",
+        "temp": -16.08,
+        "humidity": 86,
+        "windSpeed": 4.63,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:07",
+        "temp": -16.08,
+        "humidity": 86,
+        "windSpeed": 4.63,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:08",
+        "temp": -16.08,
+        "humidity": 86,
+        "windSpeed": 4.63,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:09",
+        "temp": -16.08,
+        "humidity": 86,
+        "windSpeed": 4.63,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:10",
+        "temp": -16.08,
+        "humidity": 86,
+        "windSpeed": 4.63,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:11",
+        "temp": -16.08,
+        "humidity": 86,
+        "windSpeed": 4.63,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:12",
+        "temp": -16.08,
+        "humidity": 86,
+        "windSpeed": 4.63,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:13",
+        "temp": -16.02,
+        "humidity": 84,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:14",
+        "temp": -16.02,
+        "humidity": 84,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:15",
+        "temp": -16.02,
+        "humidity": 84,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:16",
+        "temp": -16.02,
+        "humidity": 84,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:17",
+        "temp": -16.02,
+        "humidity": 84,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:18",
+        "temp": -16.02,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:19",
+        "temp": -16.02,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:20",
+        "temp": -16.02,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:22",
+        "temp": -16.02,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:22",
+        "temp": -16.02,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:23",
+        "temp": -16.02,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:24",
+        "temp": -16.02,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:25",
+        "temp": -16.02,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:26",
+        "temp": -16.02,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:27",
+        "temp": -16.02,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:28",
+        "temp": -15.91,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:29",
+        "temp": -15.91,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:30",
+        "temp": -15.91,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:31",
+        "temp": -15.91,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:32",
+        "temp": -15.91,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:34",
+        "temp": -15.91,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:36",
+        "temp": -15.91,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:38",
+        "temp": -15.91,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:40",
+        "temp": -15.81,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:42",
+        "temp": -15.81,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:44",
+        "temp": -15.81,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:46",
+        "temp": -15.81,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:48",
+        "temp": -15.81,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:50",
+        "temp": -15.81,
+        "humidity": 82,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:52",
+        "temp": -15.71,
+        "humidity": 81,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:54",
+        "temp": -15.71,
+        "humidity": 81,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:56",
+        "temp": -15.71,
+        "humidity": 81,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "8:58",
+        "temp": -15.71,
+        "humidity": 81,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "9:00",
+        "temp": -15.71,
+        "humidity": 81,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "9:02",
+        "temp": -15.71,
+        "humidity": 81,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "9:04",
+        "temp": -15.71,
+        "humidity": 81,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "9:06",
+        "temp": -15.71,
+        "humidity": 81,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "9:08",
+        "temp": -15.71,
+        "humidity": 81,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "9:10",
+        "temp": -15.71,
+        "humidity": 81,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "9:12",
+        "temp": -15.71,
+        "humidity": 81,
+        "windSpeed": 5.66,
+        "pressure": 1007,
+        "description": "few clouds"
+      },
+      {
+        "time": "9:14",
+        "temp": -15.62,
+        "humidity": 80,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:16",
+        "temp": -15.62,
+        "humidity": 80,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:18",
+        "temp": -15.62,
+        "humidity": 80,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:20",
+        "temp": -15.62,
+        "humidity": 80,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:22",
+        "temp": -15.62,
+        "humidity": 80,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:24",
+        "temp": -15.62,
+        "humidity": 80,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:26",
+        "temp": -15.42,
+        "humidity": 80,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:28",
+        "temp": -15.42,
+        "humidity": 80,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:30",
+        "temp": -15.42,
+        "humidity": 80,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:32",
+        "temp": -15.42,
+        "humidity": 80,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:34",
+        "temp": -15.42,
+        "humidity": 80,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:36",
+        "temp": -15.42,
+        "humidity": 80,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:38",
+        "temp": -15.23,
+        "humidity": 79,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:40",
+        "temp": -15.23,
+        "humidity": 79,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:42",
+        "temp": -15.23,
+        "humidity": 79,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:44",
+        "temp": -15.23,
+        "humidity": 79,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:46",
+        "temp": -15.23,
+        "humidity": 79,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:48",
+        "temp": -15.23,
+        "humidity": 79,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:50",
+        "temp": -15.04,
+        "humidity": 79,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:52",
+        "temp": -15.04,
+        "humidity": 79,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:54",
+        "temp": -15.04,
+        "humidity": 79,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:56",
+        "temp": -15.04,
+        "humidity": 79,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "9:58",
+        "temp": -15.04,
+        "humidity": 79,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "10:00",
+        "temp": -15.04,
+        "humidity": 79,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "10:02",
+        "temp": -14.85,
+        "humidity": 78,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "10:04",
+        "temp": -14.85,
+        "humidity": 78,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "10:06",
+        "temp": -14.85,
+        "humidity": 78,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "10:08",
+        "temp": -14.85,
+        "humidity": 78,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "10:10",
+        "temp": -13.12,
+        "humidity": 78,
+        "windSpeed": 0.89,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:12",
+        "temp": -13.12,
+        "humidity": 78,
+        "windSpeed": 0.89,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:14",
+        "temp": -13.12,
+        "humidity": 78,
+        "windSpeed": 0.89,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:16",
+        "temp": -13.12,
+        "humidity": 78,
+        "windSpeed": 0.89,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:18",
+        "temp": -13.12,
+        "humidity": 78,
+        "windSpeed": 0.89,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:20",
+        "temp": -13.12,
+        "humidity": 78,
+        "windSpeed": 0.89,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:22",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:23",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:24",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:24",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:25",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:26",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:26",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:27",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:27",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:28",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:28",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:29",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:29",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:30",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:30",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:31",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:31",
+        "temp": -14.39,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1007,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:32",
+        "temp": -13.97,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:32",
+        "temp": -13.97,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:33",
+        "temp": -13.97,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:33",
+        "temp": -13.97,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:33",
+        "temp": -13.97,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:34",
+        "temp": -13.97,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:35",
+        "temp": -13.97,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:36",
+        "temp": -13.97,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:37",
+        "temp": -13.97,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:38",
+        "temp": -13.97,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:40",
+        "temp": -13.97,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:40",
+        "temp": -13.97,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:41",
+        "temp": -13.97,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:42",
+        "temp": -13.97,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:43",
+        "temp": -14.24,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:44",
+        "temp": -14.24,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:45",
+        "temp": -14.24,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:46",
+        "temp": -14.24,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:47",
+        "temp": -14.24,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:48",
+        "temp": -14.24,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:49",
+        "temp": -14.24,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:50",
+        "temp": -14.24,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:51",
+        "temp": -14.24,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:52",
+        "temp": -14.24,
+        "humidity": 77,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:53",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:54",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:55",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:56",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:57",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:58",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "10:59",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:00",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:01",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:02",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:03",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:04",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:05",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:06",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:07",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:08",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:09",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:10",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:11",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:12",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:13",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:14",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:15",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:16",
+        "temp": -13.78,
+        "humidity": 76,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:17",
+        "temp": -13.25,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:18",
+        "temp": -13.25,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:19",
+        "temp": -13.25,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:20",
+        "temp": -13.25,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:21",
+        "temp": -13.25,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:22",
+        "temp": -13.25,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:23",
+        "temp": -13.25,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:24",
+        "temp": -13.25,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:25",
+        "temp": -13.25,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:26",
+        "temp": -13.25,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:27",
+        "temp": -13.53,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:28",
+        "temp": -13.53,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:29",
+        "temp": -13.53,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:30",
+        "temp": -13.53,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:31",
+        "temp": -13.53,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:32",
+        "temp": -13.53,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:33",
+        "temp": -13.53,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:34",
+        "temp": -13.53,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:35",
+        "temp": -13.41,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:36",
+        "temp": -13.41,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:37",
+        "temp": -13.41,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:38",
+        "temp": -13.41,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:39",
+        "temp": -13.41,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:40",
+        "temp": -13.41,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:41",
+        "temp": -13.41,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:42",
+        "temp": -13.41,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:43",
+        "temp": -13.41,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:44",
+        "temp": -13.41,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:45",
+        "temp": -13.41,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:46",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:47",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:48",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:49",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:50",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:51",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:52",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:53",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:54",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:55",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:56",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:57",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:58",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "11:59",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "12:00",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "12:01",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "12:02",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "12:03",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "12:04",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "12:05",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "12:06",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "12:07",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "12:08",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "12:09",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "12:10",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "12:11",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "12:12",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "12:13",
+        "temp": -13.3,
+        "humidity": 72,
+        "windSpeed": 5.14,
+        "pressure": 1006,
+        "description": "broken clouds"
+      },
+      {
+        "time": "12:14",
+        "temp": -12.43,
+        "humidity": 67,
+        "windSpeed": 4.63,
+        "pressure": 1006,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "12:15",
+        "temp": -12.43,
+        "humidity": 67,
+        "windSpeed": 4.63,
+        "pressure": 1006,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "12:16",
+        "temp": -12.43,
+        "humidity": 67,
+        "windSpeed": 4.63,
+        "pressure": 1006,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "12:17",
+        "temp": -12.43,
+        "humidity": 67,
+        "windSpeed": 4.63,
+        "pressure": 1006,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "12:18",
+        "temp": -12.43,
+        "humidity": 67,
+        "windSpeed": 4.63,
+        "pressure": 1006,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "12:19",
+        "temp": -12.43,
+        "humidity": 67,
+        "windSpeed": 4.63,
+        "pressure": 1006,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "13:22",
+        "temp": -11.47,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:24",
+        "temp": -11.47,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:25",
+        "temp": -11.47,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:26",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:27",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:28",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:29",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:30",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:31",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:32",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:33",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:34",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:35",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:36",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:37",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:38",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:39",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1005,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:40",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:41",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:42",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:43",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:44",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:45",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:46",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:47",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:48",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:49",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:50",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:51",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:52",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:53",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:55",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:56",
+        "temp": -11.7,
+        "humidity": 63,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:57",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:58",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "13:59",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "14:00",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "14:01",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "14:02",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "14:03",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "14:04",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "14:05",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "14:06",
+        "temp": -11.7,
+        "humidity": 64,
+        "windSpeed": 3.6,
+        "pressure": 1004,
+        "description": "clear sky"
+      },
+      {
+        "time": "14:07",
+        "temp": -11.5,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "14:08",
+        "temp": -11.5,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "14:09",
+        "temp": -11.5,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "14:10",
+        "temp": -11.5,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "14:11",
+        "temp": -11.5,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "14:12",
+        "temp": -11.5,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "14:13",
+        "temp": -11.5,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "14:14",
+        "temp": -11.5,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "14:15",
+        "temp": -11.5,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "14:16",
+        "temp": -11.5,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "14:17",
+        "temp": -11.5,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "scattered clouds"
+      },
+      {
+        "time": "14:18",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:19",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:20",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:21",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:22",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:23",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:24",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:25",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:26",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:27",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:28",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:29",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:30",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:31",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:32",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:33",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:34",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:35",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:36",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:37",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:38",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:39",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:40",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:41",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:42",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:43",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:44",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:45",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:46",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:47",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:48",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:49",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:50",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:51",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:52",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:53",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:54",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:55",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:56",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:57",
+        "temp": -11.6,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:58",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "14:59",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "15:00",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "15:01",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "15:02",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "15:03",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "15:04",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "15:05",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "15:06",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "15:07",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "15:08",
+        "temp": -11.48,
+        "humidity": 62,
+        "windSpeed": 4.63,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "15:09",
+        "temp": -11.3,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "overcast clouds"
+      },
+      {
+        "time": "15:10",
+        "temp": -11.3,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "overcast clouds"
+      },
+      {
+        "time": "15:11",
+        "temp": -11.3,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "overcast clouds"
+      },
+      {
+        "time": "15:12",
+        "temp": -11.3,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "overcast clouds"
+      },
+      {
+        "time": "15:13",
+        "temp": -11.3,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "overcast clouds"
+      },
+      {
+        "time": "15:14",
+        "temp": -11.3,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "overcast clouds"
+      },
+      {
+        "time": "15:15",
+        "temp": -11.3,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "overcast clouds"
+      },
+      {
+        "time": "15:16",
+        "temp": -11.3,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "overcast clouds"
+      },
+      {
+        "time": "15:17",
+        "temp": -11.3,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "overcast clouds"
+      },
+      {
+        "time": "15:18",
+        "temp": -11.3,
+        "humidity": 64,
+        "windSpeed": 3.58,
+        "pressure": 1004,
+        "description": "overcast clouds"
+      },
+      {
+        "time": "15:19",
+        "temp": -10.75,
+        "humidity": 63,
+        "windSpeed": 4.12,
+        "pressure": 1004,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:24",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:26",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:27",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:28",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:29",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:30",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:31",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:32",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:33",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:34",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:35",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:36",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:37",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:38",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:39",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:40",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:41",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:42",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:43",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:44",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:45",
+        "temp": -10.8,
+        "humidity": 65,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:46",
+        "temp": -10.99,
+        "humidity": 66,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:47",
+        "temp": -10.99,
+        "humidity": 66,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:48",
+        "temp": -10.99,
+        "humidity": 66,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:49",
+        "temp": -10.99,
+        "humidity": 66,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:50",
+        "temp": -10.99,
+        "humidity": 66,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:51",
+        "temp": -10.99,
+        "humidity": 66,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:52",
+        "temp": -10.99,
+        "humidity": 66,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:53",
+        "temp": -10.99,
+        "humidity": 66,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "16:54",
+        "temp": -10.99,
+        "humidity": 66,
+        "windSpeed": 3.6,
+        "pressure": 1003,
+        "description": "few clouds"
+      },
+      {
+        "time": "18:28",
+        "temp": -12.08,
+        "humidity": 70,
+        "windSpeed": 1.54,
+        "pressure": 1004,
+        "description": "broken clouds"
+      },
+      {
+        "time": "18:30",
+        "temp": -12.08,
+        "humidity": 70,
+        "windSpeed": 1.54,
+        "pressure": 1004,
+        "description": "broken clouds"
+      },
+      {
+        "time": "18:31",
+        "temp": -12.08,
+        "humidity": 70,
+        "windSpeed": 1.54,
+        "pressure": 1004,
+        "description": "broken clouds"
+      },
+      {
+        "time": "18:32",
+        "temp": -12.08,
+        "humidity": 70,
+        "windSpeed": 1.54,
+        "pressure": 1004,
+        "description": "broken clouds"
+      },
+      {
+        "time": "18:32",
+        "temp": -12.08,
+        "humidity": 70,
+        "windSpeed": 1.54,
+        "pressure": 1004,
+        "description": "broken clouds"
+      },
+      {
+        "time": "18:33",
+        "temp": -12.08,
+        "humidity": 70,
+        "windSpeed": 1.54,
+        "pressure": 1004,
+        "description": "broken clouds"
+      },
+      {
+        "time": "18:34",
+        "temp": -12.08,
+        "humidity": 70,
+        "windSpeed": 1.54,
+        "pressure": 1004,
+        "description": "broken clouds"
+      },
+      {
+        "time": "18:35",
+        "temp": -12.08,
+        "humidity": 70,
+        "windSpeed": 1.54,
+        "pressure": 1004,
+        "description": "broken clouds"
+      },
+      {
+        "time": "18:37",
+        "temp": -12.08,
+        "humidity": 70,
+        "windSpeed": 1.54,
+        "pressure": 1004,
+        "description": "broken clouds"
+      }
+    ],
+    "avgTemp": "-13.2",
+    "avgWind": "4.5",
+    "avgHumidity": "72",
+    "avgPressure": "1005"
+  },
+  "2026-02-17": {
+    "logs": [
+      {
+        "time": "12:21",
+        "temp": -3.07,
+        "humidity": 94,
+        "windSpeed": 3.09,
+        "pressure": 1019,
+        "description": "fog"
+      },
+      {
+        "time": "12:22",
+        "temp": -3.07,
+        "humidity": 94,
+        "windSpeed": 3.09,
+        "pressure": 1019,
+        "description": "fog"
+      },
+      {
+        "time": "12:23",
+        "temp": -3.07,
+        "humidity": 94,
+        "windSpeed": 3.09,
+        "pressure": 1019,
+        "description": "fog"
+      },
+      {
+        "time": "12:24",
+        "temp": -3.07,
+        "humidity": 94,
+        "windSpeed": 3.09,
+        "pressure": 1019,
+        "description": "fog"
+      },
+      {
+        "time": "12:25",
+        "temp": -3.07,
+        "humidity": 94,
+        "windSpeed": 3.09,
+        "pressure": 1019,
+        "description": "fog"
+      },
+      {
+        "time": "12:26",
+        "temp": -3.07,
+        "humidity": 94,
+        "windSpeed": 3.09,
+        "pressure": 1019,
+        "description": "fog"
+      },
+      {
+        "time": "12:27",
+        "temp": -3.07,
+        "humidity": 94,
+        "windSpeed": 3.09,
+        "pressure": 1019,
+        "description": "fog"
+      },
+      {
+        "time": "12:28",
+        "temp": -3.07,
+        "humidity": 94,
+        "windSpeed": 3.09,
+        "pressure": 1019,
+        "description": "fog"
+      },
+      {
+        "time": "12:29",
+        "temp": -3.07,
+        "humidity": 94,
+        "windSpeed": 3.09,
+        "pressure": 1019,
+        "description": "fog"
+      },
+      {
+        "time": "12:30",
+        "temp": -3.07,
+        "humidity": 94,
+        "windSpeed": 3.09,
+        "pressure": 1019,
+        "description": "fog"
+      },
+      {
+        "time": "12:31",
+        "temp": -3.07,
+        "humidity": 94,
+        "windSpeed": 3.09,
+        "pressure": 1019,
+        "description": "fog"
+      },
+      {
+        "time": "12:32",
+        "temp": -2.91,
+        "humidity": 93,
+        "windSpeed": 3.09,
+        "pressure": 1018,
+        "description": "fog"
+      }
+    ],
+    "avgTemp": "-3.1",
+    "avgWind": "3.1",
+    "avgHumidity": "94",
+    "avgPressure": "1019"
+  },
+  "2026-04-30": {
+    "logs": [
+      {
+        "time": "10:11",
+        "temp": 6.19,
+        "humidity": 75,
+        "windSpeed": 6.17,
+        "pressure": 1019,
+        "description": "overcast clouds"
+      }
+    ],
+    "avgTemp": "6.2",
+    "avgWind": "6.2",
+    "avgHumidity": "75",
+    "avgPressure": "1019"
+  },
+  "2026-06-09": {
+    "logs": [
+      {
+        "time": "0:08",
+        "temp": 9.96,
+        "humidity": 89,
+        "windSpeed": 3.58,
+        "pressure": 1019,
+        "description": "few clouds"
+      },
+      {
+        "time": "0:09",
+        "temp": 9.96,
+        "humidity": 89,
+        "windSpeed": 3.58,
+        "pressure": 1019,
+        "description": "few clouds"
+      },
+      {
+        "time": "0:10",
+        "temp": 9.96,
+        "humidity": 89,
+        "windSpeed": 3.58,
+        "pressure": 1019,
+        "description": "few clouds"
+      }
+    ],
+    "avgTemp": "10.0",
+    "avgWind": "3.6",
+    "avgHumidity": "89",
+    "avgPressure": "1019"
+  }
+}
