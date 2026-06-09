@@ -17,7 +17,7 @@ const MapWithClickTable = dynamic(
 );
 
 export default function FieldAnalysisPage() {
-  const [analysisData, setAnalysisData] = useState<any>({ field: null, weather: null });
+  سconst [analysisData, setAnalysisData] = useState<any>({ field: null, weather: null });
   const [isMounted, setIsMounted] = useState(false);
 
   useEffect(() => {
