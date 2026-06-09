@@ -28,7 +28,7 @@ export default function FieldAnalysisPage() {
         const res = await fetch(`/api/weather/charlottetown`);
         const data = await res.json();
         if (data?.weather?.main) {
-          setAnalysisData(prev => ({
+          setAnalysisData((prev: any) => ({
             ...prev,
             weather: {
               name: data.name,
@@ -55,7 +55,7 @@ export default function FieldAnalysisPage() {
           
           {/* ستون نقشه - حالا با پشتیبانی از GIS رنگی */}
           <div className="lg:w-3/4 h-[600px] bg-white rounded-[45px] shadow-2xl overflow-hidden border-4 border-white relative z-0">
-             <MapWithClickTable onDataSelect={(data) => setAnalysisData(prev => ({ ...prev, ...data }))} />
+             <MapWithClickTable onDataSelect={(data: any) => setAnalysisData((prev: any) => ({ ...prev, ...data }))} />
           </div>
 
           {/* پنل اطلاعات فشرده - تمام فواصل عمودی کاهش یافته است */}
